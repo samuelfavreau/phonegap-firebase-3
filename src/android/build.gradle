@@ -1,5 +1,3 @@
-apply plugin: 'com.longueuil.explorer'
-
 buildscript {
     repositories {
         mavenCentral()
